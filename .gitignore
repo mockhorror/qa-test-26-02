@@ -1,0 +1,7 @@
+env/
+.qa_test_tasks/
+.idea/
+__pycache__/
+.DS_Store
+main.py
+*.pyc
